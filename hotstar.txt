@@ -1,0 +1,824 @@
+*******all sports
+
+
+[
+{
+"domain": ".hotstar.com",
+"expirationDate": 1586260406,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_ga",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "GA1.2.1892176258.1522658108",
+"id": 1
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523188466,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_gat_UA-53733575-1",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "1",
+"id": 2
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523274806,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_gid",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "GA1.2.355386607.1523188406",
+"id": 3
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523190206,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_uetsid",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "_uet3e03d90c",
+"id": 4
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554724406,
+"hostOnly": false,
+"httpOnly": false,
+"name": "ajs_anonymous_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "\"47c62673-9d80-4b70-8c6f-5daf8c9d8b3d\"",
+"id": 5
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554724406,
+"hostOnly": false,
+"httpOnly": false,
+"name": "ajs_user_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "\"62f72d0e-4145-493a-9aec-02d19688480a\"",
+"id": 6
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554194100,
+"hostOnly": false,
+"httpOnly": false,
+"name": "avs_cookie",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "9b4c475bfd612e37979521820a5fe1454125425cf789a7826161336bec0cc4eb3128b93834dd4ace18235b7c9faebd20190c71fb957005830a58fac8a52cebaf6d91e3ce2ba5d9e7689a0c76e7bcac49",
+"id": 7
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554194100,
+"hostOnly": false,
+"httpOnly": false,
+"name": "avs_user_info",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "Priya%7CBrijesh%7Cpriyabrijesh%40gmail.com",
+"id": 8
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554724407.136028,
+"hostOnly": false,
+"httpOnly": false,
+"name": "beID",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "ip-10-254-4-17.ap-southeast-1.compute.internal",
+"id": 9
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 3100581300,
+"hostOnly": false,
+"httpOnly": false,
+"name": "crm_account_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "priyabrijesh@gmail.com",
+"id": 10
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 3100581300,
+"hostOnly": false,
+"httpOnly": false,
+"name": "device_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "62f72d0e-4145-493a-9aec-02d19688480a",
+"id": 11
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554724406,
+"hostOnly": false,
+"httpOnly": false,
+"name": "mp_2db74d7ac94b0e2cd6e49b34b48b04a0_mixpanel",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "%7B%22distinct_id%22%3A%20%2262f72d0e-4145-493a-9aec-02d19688480a%22%2C%22%24initial_referrer%22%3A%20%22http%3A%2F%2Fwww.hotstar.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.hotstar.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpap%22%3A%20%5B%5D%2C%22p_id%22%3A%20%2262f72d0e-4145-493a-9aec-02d19688480a%22%2C%22logged_in_status%22%3A%20false%2C%22subscription_status%22%3A%20%22Free%22%2C%22cookie_id%22%3A%20%2262f72d0e-4145-493a-9aec-02d19688480a%22%2C%22device_id%22%3A%20%2262f72d0e-4145-493a-9aec-02d19688480a%22%2C%22platform%22%3A%20%22web%22%2C%22first_app_open_at%22%3A%20%222018-04-02T08%3A38%3A25.594Z%22%2C%22country%22%3A%20%22IN%22%2C%22state%22%3A%20%22MH%22%2C%22city%22%3A%20%22MUMBAI%22%2C%22lat%22%3A%20%2218.98%22%2C%22long%22%3A%20%2272.83%22%2C%22email%22%3A%20%22priyabrijesh%40gmail.com%22%2C%22login_method%22%3A%20%22Email%22%7D",
+"id": 12
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1554194100,
+"hostOnly": false,
+"httpOnly": false,
+"name": "USER_JSESSIONID",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "6irYGKRJby9oy-ckhQrqhkvS",
+"id": 13
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1838548406,
+"hostOnly": false,
+"httpOnly": false,
+"name": "WZRK_G",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "6a5b549a43f84e909ae82909fac7928f",
+"id": 14
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523189606,
+"hostOnly": false,
+"httpOnly": false,
+"name": "WZRK_S_6ZW-45W-W84Z",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "%7B%22p%22%3A1%2C%22s%22%3A1523188407%2C%22t%22%3A1523188406%7D",
+"id": 15
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1767225600,
+"hostOnly": true,
+"httpOnly": false,
+"name": "beaconUrl",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "https://beacon.hotstar.com/prod/videoLockFn/6292812/18dfa43f-72c0-43c1-a011-d8c7eb1a3c74/?hotstarauth=st=1523188347~exp=1523296347~acl=/prod/videoLockFn/6292812/18dfa43f-72c0-43c1-a011-d8c7eb1a3c74/*~hmac=862d3f655d0236835240b7c025ceead4e31d19dd0192ebc5dc620d30275fe66c",
+"id": 16
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1767225600,
+"hostOnly": true,
+"httpOnly": false,
+"name": "currentSystemTime",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "1523188169",
+"id": 17
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 3101111606,
+"hostOnly": true,
+"httpOnly": false,
+"name": "cv",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "a9e3e737-6b5f-4a8e-8fdb-1e67231a41c7",
+"id": 18
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "device_os",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "Windows NT",
+"id": 19
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "gr_rt",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "62f72d0e-4145-493a-9aec-02d19688480a",
+"id": 20
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "is_mobile",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "false",
+"id": 21
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "is_tablet",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "false",
+"id": 22
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "mobile_browser",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "Chrome",
+"id": 23
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1554724409,
+"hostOnly": true,
+"httpOnly": false,
+"name": "stv_hotcookie",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "62f72d0e-4145-493a-9aec-02d19688480a",
+"id": 24
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1767225600,
+"hostOnly": true,
+"httpOnly": false,
+"name": "userMemberCoockieObj",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "{\"userMemberEmail\":\"priyabrijesh@gmail.com\",\"userMemberState\":\"C\",\"userMemberTimeStamp\":1523188407,\"userMemberReloaded\":false,\"userMemberName\":\"Priya Brijesh\",\"fbId\":\"\",\"crmAccountId\":\"priyabrijesh@gmail.com\",\"loginMethod\":\"EMAIL\",\"name\":\"Priya Brijesh\"}",
+"id": 25
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 3101111607,
+"hostOnly": true,
+"httpOnly": false,
+"name": "userMemberHID",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJoSWRcIjpcImFjbnxwcml5YWJyaWplc2hAZ21haWwuY29tXCIsXCJwSWRcIjpcImFjbnxwcml5YWJyaWplc2hAZ21haWwuY29tXCIsXCJzdWJzY3JpcHRpb25cIjp7XCJGUkVFXCI6XCIyOTk5LTAxLTAxVDAxOjAwOjAwLjAwMFpcIixcIlNwb3J0c1BhY2tcIjpcIjIwMTktMDQtMDdUMTc6MDg6NDguMDAwWlwifSxcInR5cGVcIjpcIkFDTlwiLFwiZGV2aWNlSWRcIjpcInByaXlhYnJpamVzaEBnbWFpbC5jb21cIixcImlwXCI6XCIxMTYuNzMuMTMxLjk1XCIsXCJjb250cnlDb2RlXCI6XCJpblwiLFwidXNlck5hbWVcIjpcImFjbnxwcml5YWJyaWplc2hAZ21haWwuY29tXCIsXCJ0b2tlblR5cGVcIjpcIm51XCIsXCJzdWJzRGV0YWlsc1wiOntcIkZSRUVcIjpcIkZcIixcIlNwb3J0c1BhY2tcIjpcIlNcIn19IiwiaXNzIjoiVU0iLCJleHAiOjE1MjMyNzQ4MDh9.sN0hOwXN9EYQX8RrvOjalRmax0ZIfAPiOppkAY8DQg0",
+"id": 26
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1523192006,
+"hostOnly": true,
+"httpOnly": false,
+"name": "utmCookie",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "{}",
+"id": 27
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******premium
+
+
+[
+{
+"domain": ".hotstar.com",
+"expirationDate": 1586702939,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_ga",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "GA1.2.1759361999.1523630878",
+"id": 1
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523630999,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_gat_UA-53733575-1",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "1",
+"id": 2
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523717339,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_gid",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "GA1.2.1372167591.1523630878",
+"id": 3
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523632739,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_uetsid",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "_uet2618e39e",
+"id": 4
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166934,
+"hostOnly": false,
+"httpOnly": false,
+"name": "ajs_anonymous_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "%22817a6377-b2e8-464a-8221-783eb5e4d352%22",
+"id": 5
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166939,
+"hostOnly": false,
+"httpOnly": false,
+"name": "ajs_group_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "null",
+"id": 6
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166939,
+"hostOnly": false,
+"httpOnly": false,
+"name": "ajs_user_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "%22pvinayvarma%40gmail.com%22",
+"id": 7
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166934.836063,
+"hostOnly": false,
+"httpOnly": false,
+"name": "avs_cookie",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "bd641f2bebb30b552174eee9a5a86fef8a07b54105f1149f11a0b27e841eb1fb9029ae58160ab4e0d3291608d2a3dde5cd61f9e2d834f008d6bd98a2f47d98873e8dee96fefaa4a60f0a14e7ea997533",
+"id": 8
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166934.836066,
+"hostOnly": false,
+"httpOnly": false,
+"name": "avs_user_info",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "%7C%7Cpvinayvarma%40gmail.com",
+"id": 9
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166935.088062,
+"hostOnly": false,
+"httpOnly": false,
+"name": "beID",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "ip-10-254-5-242.ap-southeast-1.compute.internal",
+"id": 10
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 3101554139,
+"hostOnly": false,
+"httpOnly": false,
+"name": "crm_account_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "pvinayvarma@gmail.com",
+"id": 11
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 3101554074,
+"hostOnly": false,
+"httpOnly": false,
+"name": "device_id",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "98aa0a77-c9c0-43c2-b8f1-979e2822866b",
+"id": 12
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166938,
+"hostOnly": false,
+"httpOnly": false,
+"name": "mp_2db74d7ac94b0e2cd6e49b34b48b04a0_mixpanel",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "{\"distinct_id\"%3A%20\"pvinayvarma%40gmail.com\"%2C\"%24initial_referrer\"%3A%20\"%24direct\"%2C\"%24initial_referring_domain\"%3A%20\"%24direct\"%2C\"__mps\"%3A%20{}%2C\"__mpso\"%3A%20{}%2C\"__mpus\"%3A%20{}%2C\"__mpa\"%3A%20{}%2C\"__mpu\"%3A%20{}%2C\"__mpap\"%3A%20[]%2C\"p_id\"%3A%20\"pvinayvarma%40gmail.com\"%2C\"logged_in_status\"%3A%20true%2C\"subscription_status\"%3A%20\"Premium\"%2C\"cookie_id\"%3A%20\"98aa0a77-c9c0-43c2-b8f1-979e2822866b\"%2C\"device_id\"%3A%20\"98aa0a77-c9c0-43c2-b8f1-979e2822866b\"%2C\"platform\"%3A%20\"web\"%2C\"first_app_open_at\"%3A%20\"2018-04-13T14%3A47%3A56.750Z\"%2C\"country\"%3A%20\"IN\"%2C\"state\"%3A%20\"TG\"%2C\"city\"%3A%20\"HYDERABAD\"%2C\"lat\"%3A%20\"17.38\"%2C\"long\"%3A%20\"78.47\"%2C\"email\"%3A%20\"pvinayvarma%40gmail.com\"%2C\"login_method\"%3A%20\"Email\"}",
+"id": 13
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1555166934.836065,
+"hostOnly": false,
+"httpOnly": false,
+"name": "USER_JSESSIONID",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "njLU-GlH8dNFBqyyA5byjSSN",
+"id": 14
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1838990939,
+"hostOnly": false,
+"httpOnly": false,
+"name": "WZRK_G",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "25c08d2ee69f4cd1abb547e81942def1",
+"id": 15
+},
+{
+"domain": ".hotstar.com",
+"expirationDate": 1523632139,
+"hostOnly": false,
+"httpOnly": false,
+"name": "WZRK_S_6ZW-45W-W84Z",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "%7B%22p%22%3A2%2C%22s%22%3A1523630878%2C%22t%22%3A1523630939%7D",
+"id": 16
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1767225600,
+"hostOnly": true,
+"httpOnly": false,
+"name": "beaconUrl",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "https://beacon.hotstar.com/prod/videoLockFn/85061660/9d4c8f37-29da-4af2-8a82-1add5b1aeb86/?hotstarauth=st=1523630875~exp=1523738875~acl=/prod/videoLockFn/85061660/9d4c8f37-29da-4af2-8a82-1add5b1aeb86/*~hmac=3349a99a9ff19e802c2a44b205639c4606984a8671117539375e0437e0ba1090",
+"id": 17
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1767225600,
+"hostOnly": true,
+"httpOnly": false,
+"name": "currentSystemTime",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "1523630935",
+"id": 18
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 3101554134,
+"hostOnly": true,
+"httpOnly": false,
+"name": "cv",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "c78242c1-09f4-4428-baac-b5d9e911bc19",
+"id": 19
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "device_os",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "Windows NT",
+"id": 20
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "gr_rt",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "98aa0a77-c9c0-43c2-b8f1-979e2822866b",
+"id": 21
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "is_mobile",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "false",
+"id": 22
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "is_tablet",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "false",
+"id": 23
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "mobile_browser",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "Chrome",
+"id": 24
+},
+{
+"domain": "http://www.hotstar.com",
+"hostOnly": true,
+"httpOnly": false,
+"name": "sharePermissions_pvinayvarma@gmail.com",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": true,
+"storeId": "0",
+"value": "y%7Cy",
+"id": 25
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1555166894,
+"hostOnly": true,
+"httpOnly": false,
+"name": "stv_hotcookie",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "98aa0a77-c9c0-43c2-b8f1-979e2822866b",
+"id": 26
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1767225600,
+"hostOnly": true,
+"httpOnly": false,
+"name": "userMemberCoockieObj",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "{\"userMemberEmail\":\"pvinayvarma@gmail.com\",\"userMemberState\":\"SR\",\"userMemberTimeStamp\":1523630935,\"userMemberReloaded\":false,\"userMemberName\":null,\"fbId\":\"\",\"crmAccountId\":\"pvinayvarma@gmail.com\",\"loginMethod\":\"EMAIL\",\"name\":\"\"}",
+"id": 27
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 3101554135,
+"hostOnly": true,
+"httpOnly": false,
+"name": "userMemberHID",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJoSWRcIjpcImFjbnxwdmluYXl2YXJtYUBnbWFpbC5jb21cIixcInBJZFwiOlwiYWNufHB2aW5heXZhcm1hQGdtYWlsLmNvbVwiLFwic3Vic2NyaXB0aW9uXCI6e1wiRlJFRVwiOlwiMjAxOS0wNC0wMlQxNTo0NTowMi45NzBaXCJ9LFwidHlwZVwiOlwiQUNOXCIsXCJkZXZpY2VJZFwiOlwicHZpbmF5dmFybWFAZ21haWwuY29tXCIsXCJpcFwiOlwiNDkuMjA2LjIxMC4yMjlcIixcImNvbnRyeUNvZGVcIjpcImluXCIsXCJ1c2VyTmFtZVwiOlwiYWNufHB2aW5heXZhcm1hQGdtYWlsLmNvbVwiLFwidG9rZW5UeXBlXCI6XCJudVwiLFwic3Vic0RldGFpbHNcIjp7XCJGUkVFXCI6XCJTXCJ9fSIsImlzcyI6IlVNIiwiZXhwIjoxNTI4ODE0OTM1fQ.SqmznpXlNXrdtnJXAxYRKmgYh-TTdtkwFsCqaUb4hsw",
+"id": 28
+},
+{
+"domain": "http://www.hotstar.com",
+"expirationDate": 1523634538,
+"hostOnly": true,
+"httpOnly": false,
+"name": "utmCookie",
+"path": "/",
+"sameSite": "no_restriction",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "{}",
+"id": 29
+}
+]
